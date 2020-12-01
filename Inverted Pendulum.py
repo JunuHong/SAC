@@ -141,5 +141,5 @@ def play_back():
     return 
 
 if __name__ == "__main__":
-    # main()
-    play_back()
+    main()
+    # play_back()
